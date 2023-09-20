@@ -1,4 +1,4 @@
-# Tugas 1 Cv Pemograman Web A
+# Tugas 2 Cv Pemograman Web A
 
 ## Description
-Membuat Cv Memakai HTML
+Membuat Cv Memakai HTML + CSS
